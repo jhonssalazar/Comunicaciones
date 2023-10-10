@@ -23,7 +23,7 @@ div#my-cart-modal .modal-content {
 
 div#my-cart-modal .modal-header {
 	padding: 0 15px 15px;
-	border-bottom: 3px solid #333;
+	border-bottom: 3px solid #ccc;
 }
 
 div#my-cart-modal h4#myModalLabel {
@@ -89,7 +89,7 @@ div#my-cart-modal button.btn.btn-primary {
 	border: none;
 	border-radius: 0;
 	outline: none;
-	background-color: #333;
+	background-color: #ccc;
 	color: #FFF;
 }
 
@@ -134,7 +134,7 @@ button.top_googles_cart {
     text-align: center;
     background: none;
     letter-spacing: 2px;
-    color: #454546;
+    color: #ccc;
     cursor: pointer;
     border: 1px solid #dde2e6;
     padding: 0.5em 1em;
@@ -145,13 +145,13 @@ button.top_googles_cart {
 #staplesbmincart form {
 	position: relative;
 	padding: 1em;
-	background: #fbfbfb;
+	background: #000000;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
 	-o-border-radius: 4px;
 	-ms-border-radius: 4px;
 	border-radius: 4px;
-	color: #333;
+	color: #ffffff;
 	-webkit-box-shadow: 0px 0px 5px 2px #9a9a9a;
 	-moz-box-shadow: 0px 0px 5px 2px #9a9a9a;
 	-o-box-shadow: 0px 0px 5px 2px #9a9a9a;
@@ -194,7 +194,7 @@ button.top_googles_cart {
 	margin: 5px 0 20px;
 	padding: 1em;
 	list-style-type: none;
-	background: #fff;
+	background: #000;
 	border: 1px solid #ccc;
 	border-radius: 4px;
 	box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
@@ -208,8 +208,8 @@ button.top_googles_cart {
 	float: right;
 	margin: -3px -10px 0;
 	padding: 0 10px;
-	background: 0;
-	border: 0;
+	background: #ccc;
+	border-radius: 4px;
 	font-size: 25px;
 	cursor: pointer;
 	font-weight: bold;
@@ -228,7 +228,7 @@ button.top_googles_cart {
 }
 
 #staplesbmincart .sbmincart-item a {
-	color: #333;
+	color: #ffffff;
 	text-decoration: none;
 }
 
@@ -260,7 +260,7 @@ button.top_googles_cart {
 	border: 0;
 	border-radius: 0;
 	box-shadow: none;
-	color: #999;
+	color: #ccc;
 	font-size: 12px;
 	line-height: 22px;
 	overflow: inherit;
@@ -308,7 +308,7 @@ button.top_googles_cart {
 	height: 19px;
 	margin: 2px 0 0;
 	padding: 0;
-	background: #b7b7b7;
+	background: #ccc;
 	border: 1px solid #a3a3a3;
 	border-radius: 3px;
 	color: #fff;
@@ -367,11 +367,11 @@ p.sbmincart-empty-text {
 /* Track */
 
 #staplesbmincart form ul::-webkit-scrollbar-track {
-	-webkit-box-shadow: inset 0 0 6px #999;
-	-moz-box-shadow: inset 0 0 6px #999;
-	-o-box-shadow: inset 0 0 6px #999;
-	-ms-box-shadow: inset 0 0 6px #999;
-	box-shadow: inset 0 0 6px #999;
+	-webkit-box-shadow: inset 0 0 6px #ccc;
+	-moz-box-shadow: inset 0 0 6px #ccc;
+	-o-box-shadow: inset 0 0 6px #ccc;
+	-ms-box-shadow: inset 0 0 6px #ccc;
+	box-shadow: inset 0 0 6px #ccc;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	-o-border-radius: 10px;
@@ -484,7 +484,7 @@ p.sbmincart-empty-text {
 }
 
 .product-new-top {
-    background: #F60B0E;
+    background: #f60b0e;
     color: #fff;
     right: -18px;
     position: absolute;
@@ -498,7 +498,7 @@ p.sbmincart-empty-text {
 
 span.money {
 	font-size: 1em;
-	color: #3c2afa;
+	color: #f60b0e;
 	font-weight: 700;
 	letter-spacing: 1px;
 }
@@ -582,7 +582,7 @@ span.money {
 }
 
 .link-product-add-cart:hover {
-    background: #3c2afa;
+    background: #f60b0e;
     color: #fff;
 }
 
@@ -597,11 +597,11 @@ ul.stars li {
 }
 
 ul.stars li a {
-	color: #333;
+	color: #ccc;
 }
 
 ul.stars li a i:hover {
-    color: #3c2afa;
+    color: #f60b0e;
 }
 
 .product-googles-info {
@@ -662,7 +662,7 @@ ul.stars li a i:hover {
 	-moz-border-radius: 0px;
 	-ms-border-radius: 0px;
 	-o-border-radius: 0px;
-	background-color: #fff;
+	background-color: #000000;
 	width: 80%;
 	color: #000;
 }
@@ -729,7 +729,7 @@ ul.stars li a i:hover {
 }
 
 .search-hotel form button.btn1 {
-    color: #3c2afa;
+    color: #f60b0e;
     border: none;
     padding: 10px 0;
     outline: none;
@@ -889,7 +889,7 @@ input.checked {
 /*-- customer --*/
 
 .customer-rev ul li i {
-	color: #3c2afa;
+	color: #f60b0e;
     font-size: 0.7em;
 }
 
@@ -1012,7 +1012,7 @@ span.item_price {
 
 button.googles-cart {
 	font-size: 1.4em;
-	color: #333;
+	color: #ccc;
 	border: none;
 	text-align: center;
 	border-left: none !important;
@@ -1021,7 +1021,7 @@ button.googles-cart {
 	cursor: pointer;
 }
 .product-googles-info:hover button.googles-cart{
-	color:#3c2afa;
+	color:#f60b0e;
 }
 ul.footer_list_icons.single_in li {
 	color: #2f2f2f;
@@ -1035,7 +1035,7 @@ ul.footer_list_icons.single_in li a {
 }
 
 ul.footer_list_icons.single_in li a:hover {
-	color: #333;
+	color: #ccc;
 }
 .product-googles-info.slide-img {
     border: none;
@@ -1047,7 +1047,7 @@ ul.footer_list_icons.single_in li a:hover {
 
 .single-right-left h3 {
     font-size: 23px;
-    color: #3c2afa;
+    color: #f60b0e;
     margin: 0;
     letter-spacing: 1px;
 }
@@ -1118,7 +1118,7 @@ ul.footer_list_icons.single_in li a:hover {
 .description input[type="submit"] {
 	color: #fff;
 	font-size: 16px;
-	background: #333;
+	background: #ccc;
 	border: none;
 	outline: none;
 	padding: 7px 17px 9px;
@@ -1128,7 +1128,7 @@ ul.footer_list_icons.single_in li a:hover {
 }
 
 .description input[type="submit"]:hover {
-    background: #3c2afa;
+    background: #f60b0e;
 }
 
 .occasion-cart a {
@@ -1148,7 +1148,7 @@ ul.footer_list_icons.single_in li a:hover {
 
 .bootstrap-tab-text p {
 	font-size: 14px;
-	color: #999;
+	color: #ccc;
 	line-height: 1.8em;
 }
 
@@ -1187,7 +1187,7 @@ ul.footer_list_icons.single_in li a:hover {
 
 .bootstrap-tab-text-grid-right ul li a {
 	font-size: 1em;
-    color: #3c2afa;
+    color: #f60b0e;
 	text-transform: uppercase;
 	text-decoration: none;
 	font-weight: 600;
@@ -1252,7 +1252,7 @@ ul.footer_list_icons.single_in li a:hover {
 .add-review input[type="submit"] {
 	outline: none;
 	padding: 14px 0;
-	background: #3c2afa;
+	background: #f60b0e;
 	border: none;
 	width: 20%;
 	font-size: 1em;
@@ -1454,7 +1454,7 @@ span.item_price {
      .add-review input[type="submit"] {
         outline: none;
         padding: 12px 0;
-        background: #3c2afa;
+        background: #f60b0e;
         border: none;
         width:30%;
     }
@@ -1541,7 +1541,7 @@ span.item_price {
     .add-review input[type="submit"] {
         outline: none;
         padding: 12px 0;
-        background: #3c2afa;
+        background: #f60b0e;
         border: none;
         width: 50%;
     }
@@ -1601,7 +1601,7 @@ span.item_price {
      .add-review input[type="submit"] {
         outline: none;
         padding: 12px 0;
-        background: #3c2afa;
+        background: #f60b0e;
         border: none;
         width: 50%;
     }

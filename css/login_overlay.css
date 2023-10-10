@@ -3,7 +3,7 @@
 /*styling open close button*/
 
 .button-log a {
-    color: #333;
+    color: #ccc;
 	font-size: 1em;
 	text-decoration: none;
 }
@@ -12,7 +12,7 @@
 	color: #fff;
 }
 .btn-open:after {
-	color: #333;
+	color: #ccc;
 	transition-property: all .2s linear 0s;
 	-moz-transition: all .2s linear 0s;
 	-webkit-transition: all .2s linear 0s;
@@ -148,7 +148,7 @@
 	width: 80px;
 	height: 50px;
 	background: #e9e9e9;
-	color: #333;
+	color: #ccc;
 	display: inline-block;
 	margin: 0 20px;
 	transition-property: all .2s linear 0s;
@@ -184,7 +184,7 @@
 		width: 100%;
 		height: 50px;
 		background: #fff;
-		color: #333;
+		color: #ccc;
 		display: block;
 		margin: 5px 0;
 	}
@@ -194,6 +194,6 @@
 	width: 100%;
 	margin-top: 200px;
 	font-size: 20px;
-	color#333;
+	color#ccc;
 	text-align: center;
 }

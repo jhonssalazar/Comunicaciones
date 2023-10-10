@@ -61,8 +61,8 @@
 ----------------------------------*/
 
 .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
-  border: 0px solid #3c2afa/*{borderColorDefault}*/;
-  background: #3c2afa;
+  border: 0px solid #f60b0e/*{borderColorDefault}*/;
+  background: #f60b0e;
   font-weight: normal/*{fwDefault}*/;
   color: #444/*{fcDefault}*/;
   outline: none;

@@ -44,7 +44,7 @@ button#trigger-overlay {
     border: none;
     background: none;
     text-align: center;
-    color: #131415;
+    color: #ccc;
 	font-size: 1.2em;
 	cursor: pointer;
 }
@@ -76,7 +76,7 @@ button#trigger-overlay {
 	-webkit-transition: 0.5s all;
 	-moz-transition: 0.5s all;
 	-webkit-appearance: none;
-	background: #3c2afa;
+	background: #f60b0e;
 	border-radius:0;
 }
 /* Menu style *

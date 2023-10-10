@@ -159,7 +159,7 @@ td.invert-image a img {
 
 .checkout-left-basket h4 {
     padding: 1em;
-    background: #3c2afa;
+    background: #f60b0e;
     font-size: 1em;
     color: #fff;
     text-transform: uppercase;
@@ -175,7 +175,7 @@ td.invert-image a img {
 	list-style-type: none;
 	margin-bottom: 1em;
 	font-size: 14px;
-	color: #999;
+	color: #ccc;
 }
 
 .checkout-left-basket {
@@ -211,7 +211,7 @@ td.invert-image a img {
 }
 
 .checkout-right-basket a:hover {
-	background: #3c2afa;
+	background: #f60b0e;
 }
 
 .checkout-right-basket a span {
@@ -315,10 +315,10 @@ input.checkbox {
 	position: relative;
 	padding: 12px 50px 12px;
 	letter-spacing: 3px;
-	background: #333;
+	background: #ccc;
 	font-size: 1em;
 	color: #fff;
-	border: 1px solid #333;
+	border: 1px solid #ccc;
 	outline: none;
 	text-transform: uppercase;
 	cursor: pointer;
@@ -349,12 +349,12 @@ input.checkbox {
 .agileinfo_main_grid_left_grid ul li span {
 	display: block;
 	font-size: .5em;
-	color: #999;
+	color: #ccc;
 }
 
 .agileinfo_main_grid_left_grid ul li:first-child {
 	width: 70%;
-	border-right: 1px solid #999;
+	border-right: 1px solid #ccc;
 }
 
 .agileinfo_main_grid_left_grid ul li:last-child {
